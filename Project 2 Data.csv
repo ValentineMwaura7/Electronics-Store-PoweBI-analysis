@@ -1,0 +1,21 @@
+order_id,order_date,customer_name,region,product,quantity,unit_price,discount,sales_channel,sales_rep,delivery_days
+2291,3/15/2023,John Otieno,Nairobi,Laptop,3,"35,000",0.05%,Online,Brian,3
+2376,10/2/2023,John Otieno,Kisii,Mouse,2,"1,200",10.00%,Retail,Brian,5
+2365,1/10/2023,Mary Wanjiku,Kisii,Mouse,3,"27,000",0.00%,Retail,Alice,2
+2299,3/15/2023,John Otieno,Nairobi,Keyboard,2,"35,000",0.00%,Online,Alice,1
+2095,3/15/2023,John Otieno,Kisii,Keyboard,1,"2,500",10.00%,Online,Alice,3
+2183,10/2/2023,John Otieno,Mombasa,Monitor,4,"35,000",0.10%,Online,Alice,1
+2269,3/15/2023,Mary Wanjiku,Kisii,Laptop,2,500,0.05%,Online,Brian,3
+2161,4/15/2023,Mary Wanjiku,Nairobi,Keyboard,0,500,0.00%,Online,Alice,3
+2044,1/10/2023,John Otieno,Kisii,Keyboard,3,"2,500",0.10%,Online,Brian,2
+2069,4/15/2023,John Otieno,Nairobi,Keyboard,2,500,0.00%,Retail,Brian,5
+2047,4/15/2023,John Otieno,Nakuru,Mouse,4,"2,500",0.10%,Retail,Brian,5
+2094,1/10/2023,John Otieno,Nairobi,Keyboard,4,"27,000",10.00%,Retail,Brian,1
+2265,1/10/2023,Mary Wanjiku,Kisii,laptop ,4,"35,000",0.05%,Retail,Alice,2
+2177,3/15/2023,Mary Wanjiku,Nairobi,Laptop,2,"2,500",10.00%,Retail,Brian,3
+2297,10/2/2023,Mary Wanjiku,Mombasa,Monitor,3,"35,000",0.10%,Retail,Alice,1
+2359,1/10/2023,John Otieno,Mombasa,Keyboard,2,"1,200",0.00%,Retail,Brian,5
+2292,1/10/2023,Mary Wanjiku,Mombasa,Monitor,2,"35,000",0.00%,Online,Alice,1
+2343,1/10/2023,John Otieno,Kisii,Mouse,0,"2,500",5.00%,Online,Alice,5
+2248,1/10/2023,John Otieno,Nakuru,Monitor,2,"27,000",0.10%,Online,Alice,2
+2100,4/15/2023,John Otieno,Mombasa,Monitor,3,"27,000",0.05%,Retail,Alice,1
