@@ -39,6 +39,7 @@ Key measures created include:
 # Dashboard Preview
  Kindly access the Dashboard Preview from here ;
 
+<img width="983" height="541" alt="Electronics Store Analysis" src="https://github.com/user-attachments/assets/0b9f4543-e872-4ba7-8bd8-d710b4434c52" />
 
 # Key Insights
 - Total sales reached KES 985,800, indicating strong overall revenue generation across products and regions.
